@@ -402,7 +402,7 @@ int main(int argc, char ** argv)
 	glutInitDisplayMode(GLUT_DOUBLE|GLUT_RGBA|GLUT_DEPTH);
 	glutInitWindowSize(1000,600);
 
-	glutCreateWindow("苞力4 快林快快");
+	glutCreateWindow("快林快快");
 
 	glewExperimental = true;
 	glewInit();
