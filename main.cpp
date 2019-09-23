@@ -10,7 +10,7 @@ MyCube cube;
 MySphere sphere;
 
 GLuint program;
-GLuint phong_prog;
+GLuint phong_prog; 
 GLuint cube_prog;
 
 
